@@ -75,9 +75,9 @@ dimensions = (200,50)
 print(dimensions[0])
 print(dimensions[1])
 
-car = 'Audi'
-print(car.lower() == 'audi')
-print(car)
+# car = 'Audi'
+# print(car.lower() == 'audi')
+# print(car)
 
 #字典，键值对
 # alien_0 = {"color":"green","points":"5"}
@@ -93,5 +93,6 @@ print(alien_0)
 print(alien_0.items())
 #遍历所有的键.key()
 print(alien_0.keys())
+
 #遍历所有的值.values()
 print(alien_0.values())
