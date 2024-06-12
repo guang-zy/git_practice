@@ -90,9 +90,8 @@ alien_0['points'] = '5'
 print(alien_0)
 
 #遍历所有的键值对.items()
-print(alien_0.items())
+# print(alien_0.items())
 #遍历所有的键.key()
 print(alien_0.keys())
-
 #遍历所有的值.values()
 print(alien_0.values())
